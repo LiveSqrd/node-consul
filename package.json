@@ -1,5 +1,5 @@
 {
-  "name": "consul",
+  "name": "lsq-consul",
   "version": "0.13.0",
   "description": "Consul client",
   "main": "./lib",
@@ -25,7 +25,7 @@
   "keywords": [
     "consul"
   ],
-  "repository": "https://github.com/silas/node-consul.git",
+  "repository": "https://github.com/LiveSqrd/node-consul.git",
   "author": "Silas Sewell <silas@sewell.org>",
   "license": "MIT"
 }
